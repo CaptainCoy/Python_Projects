@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: darkcyan;
+    color: darkgoldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    padding: 25%;
+    margin: auto;
+}
